@@ -22,6 +22,7 @@ Following are the details of the dataset: -
 • Number of samples per participant: 10
 # Results
 We can summarize by saying that we were able to make a working computer vision model that can detect hand sign number gestures. We can thus say that we have created a working model that can be used to verify human users from bots. Since we use numeric CAPTCHA to verify humans, it can be said that the system has a dual approach for verification. We first use the CAPTCHA so that only humans can read it and protect the system from OCR attacks. Followed by this, the user needs to make hand gestures according to the CAPTCHA code and only after the hand gestures are verified that the human passes the test.
+
 ![image](https://user-images.githubusercontent.com/84806846/186536622-fcb1ddb8-b439-4ee0-9478-18ef1162d3b0.png)
 ![image](https://user-images.githubusercontent.com/84806846/186536635-6bbb09d7-74d7-4937-bb49-db38d6bceef0.png)
 ![image](https://user-images.githubusercontent.com/84806846/186536660-d1a72868-22e1-4e94-a9cf-34ff941f722e.png)
