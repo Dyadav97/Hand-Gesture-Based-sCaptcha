@@ -1,5 +1,5 @@
 # Hand-Gesture-Based-sCaptcha
-# Introductio
+# Introduction
 CAPTCHA is a widely used security mechanism to prevent spammers from submitting automated forms. It is a simple test that tells humans and bots apart. Traditional CAPTCHA’s are a combination of distorted text and numbers or an audio with extra noise. The theory is that humans can correctly identify such distorted text while a bot can’t. However, with the advancement in the field of Artificial Intelligence it is only a matter of time that such CAPTCHA’s
 will be cracked by bots. These CAPTCHA’s wastes a lot of time and efforts of users.This report aims to explain the creation of a new experimental CAPTCHA that is claimed to provide greater security against spam bots than existing CAPTCHA systems. Report contains a summary of our project. In brief, our project is about using computer vision to detect sign language, specifically numbers 0 to 9 and thus detect numbers that can be used to solve numberbased CAPTCHA puzzles to verify if the user is human or a bot. Using our project, we can provide a 2-layer security to verify users from bots as we use both hand gestures and CAPTCHA based numbers which is very hard to replicate artificially.
 # Methodology
